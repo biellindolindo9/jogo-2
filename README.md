@@ -1,34 +1,18 @@
-## 🔗 Repositório  
-[Abrir projeto no GitHub](https://github.com/biellindolindo9/jogo-2)
+## 🧠 Sobre o projeto
 
----
+Este projeto é um **jogo simples desenvolvido para navegador**, utilizando apenas **HTML, CSS e JavaScript**.
 
-## 🧠 Resumo do projeto
+A aplicação foi construída com foco em praticar conceitos básicos de desenvolvimento front-end, como **manipulação do DOM**, **eventos** e **lógica de programação**. O jogo funciona diretamente no navegador, sem necessidade de backend.
 
-Esse repositório é um **jogo simples feito para navegador** usando apenas:
+A estrutura do projeto é composta por três arquivos principais:
+- `index.html`, responsável pela estrutura da página  
+- `style.css`, que define o design e a aparência do jogo  
+- `script.js`, onde está toda a lógica e funcionamento do jogo  
 
-- **HTML**
-- **CSS**
-- **JavaScript**
+## 🎮 Objetivo
 
-Ele tem uma estrutura básica com 3 arquivos principais:
-- `index.html` → estrutura da página/jogo  
-- `style.css` → visual (cores, layout, etc.)  
-- `script.js` → lógica do jogo (movimento, regras, interações)
+O principal objetivo deste projeto foi **praticar e consolidar conhecimentos em JavaScript**, especialmente na criação de interações dinâmicas e no controle de elementos na tela.
 
----
+## 💡 Considerações
 
-## 🎮 O que dá pra concluir
-
-- É um projeto **front-end puro**, sem backend  
-- Provavelmente um jogo **2D simples** (movimento, clique ou interação básica)  
-- Parece ser um projeto de **aprendizado/prática**, pois:
-  - possui poucos arquivos  
-  - estrutura enxuta  
-  - poucas alterações (commits)
-
----
-
-## 💡 Em uma frase
-
-👉 É um **jogo web simples feito com HTML, CSS e JavaScript**, criado para treinar lógica de programação e manipulação do DOM.
+Este é um projeto simples, desenvolvido como forma de aprendizado, mas que demonstra a base para a criação de jogos e aplicações interativas na web.
